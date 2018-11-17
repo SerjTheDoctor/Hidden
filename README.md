@@ -9,4 +9,6 @@ How to start this project: If you want to play the game, use the exe direct, els
 
 User instructions: Use W/A/S/D to move and the mouse to interract.
 
+Some credits are given in the presentation file.
+
 Authors: @SerjTheDoctor & Andrei Candet
